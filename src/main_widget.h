@@ -6,7 +6,8 @@
 
 
 
-class MainWidget : public QWidget {
+class MainWidget : public QWidget 
+{
     Q_OBJECT
 public:
     MainWidget() ;
